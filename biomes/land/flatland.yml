@@ -1,0 +1,11 @@
+id: FLATLAND
+type: BIOME
+vanilla: minecraft:plains
+
+terrain:
+  sampler:
+    type: LINEAR_HEIGHTMAP
+    base: 64
+
+palette:
+  - GRASS: 318
